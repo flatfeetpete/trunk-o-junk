@@ -1,4 +1,5 @@
-# Menger sponge on twigl
+# Menger sponge on twigl https://twigl.app/?ol=true&ss=-NQuR3bViCcdD6yYj2XE
+# Reformatting to try to grok how it works.
 
 vec3 P,Q;
 float i,e=exp(mod(t*.5,log(3.))),d=e;
